@@ -1,0 +1,4 @@
+{
+    "watch": ["index.js", "js", "planet/js"],
+    "ignore": ["**/__tests__/**", "**/*.test.js"]
+}
